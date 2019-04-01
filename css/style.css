@@ -23,19 +23,19 @@ body {
 }
 
 .item-1 {
-    background: url('/img/product-1.jpg') no-repeat center center / cover;
+    background: url('../img/product-1.jpg') no-repeat center center / cover;
 }
 
 .item-2 {
-    background: url('/img/product-2.jpg') no-repeat center center / cover;
+    background: url('../img/product-2.jpg') no-repeat center center / cover;
 }
 
 .item-3 {
-    background: url('/img/product-3.jpg') no-repeat center center / cover;
+    background: url('../img/product-3.jpg') no-repeat center center / cover;
 }
 
 .item-4 {
-    background: url('/img/product-4.jpg') no-repeat center center / cover;
+    background: url('../img/product-4.jpg') no-repeat center center / cover;
 }
 
 
